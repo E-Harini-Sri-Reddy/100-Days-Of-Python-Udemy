@@ -1,6 +1,6 @@
 # 100 Days of Python (Udemy)
 
-📘 This repository documents my journey through the **"100 Days of Code: The Complete Python Pro Bootcamp for 2023"** on Udemy.  
+📘 This repository documents my journey through the **"100 Days of Code: The Complete Python Pro Bootcamp"** on Udemy.  
 Each folder contains exercises, notes, and projects for the corresponding day of the course.
 
 ---
